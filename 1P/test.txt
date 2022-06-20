@@ -1,0 +1,4 @@
+- Eran 8 bits por canal, entoces 24 para RGB total
+1/2
+
+9.5
